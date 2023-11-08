@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Lena, Pharmaceutical Engneering 24', China Pharmaceutical University.<br>
 As a beginner, currently learning basic coding skills.<br>
-Wish to make the world in my mind into reality and benefit the real life.<br>
+Hope to make the world in my mind into reality and benefit the real life.<br>
 ### Nice to meet you 😄
 <!--
 **LenaASu/LenaASu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
